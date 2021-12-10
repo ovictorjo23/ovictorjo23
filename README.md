@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm ovictorjo 👋
 
 <div align="center">
   <a href="https://github.com/ovictorjo23">
