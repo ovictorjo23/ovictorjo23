@@ -8,7 +8,7 @@
 ![ovictorjo GitHub stats](https://github-readme-stats.vercel.app/api?username=ovictorjo23&show_icons=true&theme=dracula)
 
 
-## Tecnologias em desenvolvimento no meu dia a dia
+## Tecnologias/Linguagens
 
 <div style="display: inline_block">
   
