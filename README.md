@@ -1,8 +1,9 @@
 ### Olá! Sou o Joao Victor 👋
 
-[![Blog](https://img.shields.io/website?label=projetoapuraverdade.com&style=for-the-badge&url=https://www.projetoapuraverdade.com/)](https://www.projetoapuraverdade.com/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2klmeLZtHyr2YoTHouENKw/videos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovictorjo/)
+[![BLOG](https://img.shields.io/website?label=projetoapuraverdade.com&style=for-the-badge&url=https://www.projetoapuraverdade.com/)](https://www.projetoapuraverdade.com/)
+[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2klmeLZtHyr2YoTHouENKw/videos)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovictorjo/)
+[![LINKEDIN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovictorjo/)
 
 
 ![ovictorjo GitHub stats](https://github-readme-stats.vercel.app/api?username=ovictorjo23&show_icons=true&theme=dracula)
